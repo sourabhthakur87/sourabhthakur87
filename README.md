@@ -4,7 +4,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhthakur87" alt="sourabhthakur87" /></a> </p> -->
 
-<img align="right" alt="cooding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471gtttri7zcwmb8sd4j3igepi3mpn2pdritzl0fuf&rid=giphy.gif&ct=g" >
+<img align="right" alt="cooding" width="400" border-radius: 50% src="https://c.tenor.com/f-nICqWLnrQAAAAM/programmer-cycle.gif" >
 - 🌱 I’m currently learning **frontend web development**
 
 - 📫 How to reach me **thakursourabh097@gmail.com**
