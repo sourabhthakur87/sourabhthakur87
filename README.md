@@ -1,25 +1,10 @@
-### Hi there 👋
-
-<!--
-**sourabhthakur87/sourabhthakur87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Sourabh Thakur</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhthakur87" alt="sourabhthakur87" /></a> </p> -->
 
+<img align="right" alt="cooding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471gtttri7zcwmb8sd4j3igepi3mpn2pdritzl0fuf&rid=giphy.gif&ct=g" >
 - 🌱 I’m currently learning **frontend web development**
 
 - 📫 How to reach me **thakursourabh097@gmail.com**
