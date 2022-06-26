@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhthakur87" alt="sourabhthakur87" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhthakur87" alt="sourabhthakur87" /></a> </p> -->
 
 - 🌱 I’m currently learning **frontend web development**
 
