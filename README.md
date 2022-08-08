@@ -25,7 +25,17 @@
 
 </p>
 <h2>Some Statistics: </h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhthakur87&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhthakur87" /> </p>
 <p><img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhthakur87&show_icons=true&locale=en&layout=compact" alt="sourabhthakur87" /></p>
 
 <p><img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhthakur87&" alt="sourabhthakur87" /></p>
+
+
+
+
+
+
+
+
 
