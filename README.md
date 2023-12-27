@@ -7,7 +7,7 @@
 <img align="right" alt="cooding" width="400"src="https://c.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif" >
 
 
-- 🌱 I’m currently learning **frontend web development**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **thakursourabh097@gmail.com**
 
